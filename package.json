@@ -1,0 +1,22 @@
+{
+  "name": "nebula-be",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@irys/sdk": "0.0.4",
+    "@irys/upload": "0.0.2",
+    "@irys/upload-ethereum": "0.0.2",
+    "cors": "2.8.5",
+    "dotenv": "16.3.1",
+    "ethers": "6.11.0",
+    "express": "^4.21.1"
+  }
+}
